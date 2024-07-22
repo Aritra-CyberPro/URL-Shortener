@@ -14,4 +14,13 @@ This project is a simple URL shortener application. It takes long URLs and gener
 2. **CSS:** For styling the web page.
 3. **JavaScript:** For handling the URL shortening logic and interactions.
 
+## Clone in your system
+```
+https://github.com/Aritra-ISS/URL-Shortener.git
+```
 
+## Contributing
+Feel free to fork this repository and contribute by submitting a pull request. For any issues or feature requests, please open an issue.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
