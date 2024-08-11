@@ -16,7 +16,7 @@ This project is a simple URL shortener application. It takes long URLs and gener
 
 ## Clone in your system
 ```
-https://github.com/Aritra-ISS/URL-Shortener.git
+https://github.com/Aritra-CyberPro/URL-Shortener.git
 ```
 
 ## Contributing
@@ -26,4 +26,4 @@ Feel free to fork this repository and contribute by submitting a pull request. F
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aritra-ISS/URL-Shortener/blob/main/LICENSE) file for more details.
 
 ## Author
-[@Aritra-ISS](https://github.com/Aritra-ISS)
+[@Aritra](https://github.com/Aritra-CyberPro)
