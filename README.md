@@ -23,7 +23,7 @@ https://github.com/Aritra-CyberPro/URL-Shortener.git
 Feel free to fork this repository and contribute by submitting a pull request. For any issues or feature requests, please open an issue.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aritra-ISS/URL-Shortener/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aritra-CyberPro/URL-Shortener/blob/main/LICENSE) file for more details.
 
 ## Author
 [@Aritra](https://github.com/Aritra-CyberPro)
