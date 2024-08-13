@@ -16,7 +16,7 @@ This project is a simple URL shortener application. It takes long URLs and gener
 
 ## Clone in your system
 ```
-https://github.com/Aritra-CyberPro/URL-Shortener.git
+git clone https://github.com/Aritra-CyberPro/URL-Shortener.git
 ```
 
 ## Contributing
